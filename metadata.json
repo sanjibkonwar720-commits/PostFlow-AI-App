@@ -1,0 +1,7 @@
+{
+  "name": "PostFlow AI",
+  "description": "Cross-platform social media auto-publishing and AI-powered content creation SaaS platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
